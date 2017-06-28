@@ -1,26 +1,3 @@
-{
-    "textures":[],
-    "animations":[{
-        "tracks":[],
-        "name":"default",
-        "fps":24
-    }],
-    "object":{
-        "children":[{
-            "name":"Cube",
-            "uuid":"6E9526B9-DFB7-4D46-B6BD-CAA1AE1B3646",
-            "matrix":[-1,0,0,0,0,0,1,0,0,1,0,0,0,1.94313,0,1],
-            "visible":true,
-            "type":"Mesh",
-            "material":"2FE943E0-BF40-49E3-AADC-517C3E8E4635",
-            "castShadow":true,
-            "receiveShadow":true,
-            "geometry":"35EC255A-2CC6-4348-9CAB-9325259A0366"
-        }],
-        "type":"Scene",
-        "uuid":"EAFF4162-1A05-4274-B356-A39D4623B518",
-        "matrix":[1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1]
-    },
     "metadata":{
         "generator":"io_three",
         "type":"Object",
